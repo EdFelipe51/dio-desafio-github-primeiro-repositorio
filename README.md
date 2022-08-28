@@ -10,4 +10,6 @@ Repositorio para desafio de Projeto - Desafio de Projeto Git/GitHub
 ## Comentários
 O Git Bash é um terminal/console extendido para otimizar o uso do Git
 Iniciando meu primeiro projeto em Git/GitHub
-[Sintaxe Basica Link conhecendo / entendendo Git/GitHub](https://www.hostinger.com.br/tutoriais/o-que-github)
+[Sintaxe Basica Link conhecendo / entendendo Git/GitHub](https://www.hostinger.com.br/tutoriais/o-que-githu)
+Realizando correções
+
